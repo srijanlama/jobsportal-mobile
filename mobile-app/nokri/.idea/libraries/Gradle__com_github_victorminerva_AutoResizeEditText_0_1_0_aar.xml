@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.victorminerva:AutoResizeEditText:0.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b797811c9cc22a5295dc03ecfa01f04a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b797811c9cc22a5295dc03ecfa01f04a/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b797811c9cc22a5295dc03ecfa01f04a/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

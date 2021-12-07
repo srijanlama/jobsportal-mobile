@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vincent.bottomnavigationbar:bottomnavigationbar:1.0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a91dd016ac8ba4100a80f28546bb672f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a91dd016ac8ba4100a80f28546bb672f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a91dd016ac8ba4100a80f28546bb672f/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vincent.bottomnavigationbar/bottomnavigationbar/1.0.6/986c00918bc7da08407d5a7d4b5b8237a854f5d0/bottomnavigationbar-1.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vincent.bottomnavigationbar/bottomnavigationbar/1.0.6/f113b3b4de4de1cbcea5d88f71a46bfef733bffb/bottomnavigationbar-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
